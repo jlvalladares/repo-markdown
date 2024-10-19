@@ -1,0 +1,3 @@
+- [x] Aprender lo básico de Markdown
+- [ ] Practicar listas en Markdown
+- [x] Escribir un documento completo
